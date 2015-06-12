@@ -1,1 +1,1 @@
-# sideSocial
+# Copyright GProduct 2015
